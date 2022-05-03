@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DGOLEA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DGOLEA\\.nuget\\packages"
+    ]
+  }
+}
